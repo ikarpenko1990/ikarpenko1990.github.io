@@ -7,7 +7,7 @@
                 "appIDs": ["98CK667MDH.com.Almotech.Washify"],
                 "paths":
                 [
-                    "api/login/mobile/*"
+                    "*"
                 ]
             }
         ]
