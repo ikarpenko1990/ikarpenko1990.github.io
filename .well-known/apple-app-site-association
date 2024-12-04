@@ -1,11 +1,22 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
+    "applinks":
+    {
+        "details":
+        [
             {
-                "appID": "BN24Y3J4Q6.com.yallaclassifieds.lalafo",
-                "paths": ["NOT /payment/*", "NOT /account/autologin/*", "*"]
+                "appIDs": ["98CK667MDH.com.Almotech.Washify"],
+                "paths":
+                [
+                    "/api/login/mobile/*"
+                ]
             }
+        ]
+    },
+    "webcredentials":
+    {
+        "apps":
+        [
+            "98CK667MDH.com.Almotech.Washify"
         ]
     }
 }
