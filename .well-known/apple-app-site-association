@@ -4,10 +4,15 @@
         "details":
         [
             {
-                "appIDs": ["98CK667MDH.com.Almotech.Washify"],
-                "paths":
+                "appIDs":
                 [
-                    "/api/login/mobile/*"
+                    "98CK667MDH.com.Almotech.Washify"
+                ],
+                "components":
+                [
+                    {
+                        "/": "api/login/mobile/*"
+                    }
                 ]
             }
         ]
