@@ -1,27 +1,22 @@
 {
-    "applinks":
-    {
-        "details":
-        [
-            {
-                "appIDs":
-                [
-                    "98CK667MDH.com.Almotech.Washify"
-                ],
-                "components":
-                [
-                    {
-                        "/": "/api/login/mobile/*"
-                    }
-                ]
-            }
-        ]
-    },
     "webcredentials":
     {
         "apps":
         [
             "98CK667MDH.com.Almotech.Washify"
+        ]
+    },
+    "applinks":
+    {
+        "details":
+        [
+            {
+                "appID": "98CK667MDH.com.Almotech.Washify",
+                "paths":
+                [
+                    "*"
+                ]
+            }
         ]
     }
 }
