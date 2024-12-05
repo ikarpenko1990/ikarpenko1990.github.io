@@ -11,7 +11,7 @@
                 "components":
                 [
                     {
-                        "/": "*"
+                        "/": "/api/login/mobile/*"
                     }
                 ]
             }
