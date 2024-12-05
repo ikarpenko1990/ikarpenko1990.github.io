@@ -15,9 +15,11 @@
                 [
                     "98CK667MDH.com.Almotech.Washify"
                 ],
-                "paths":
+                "components":
                 [
-                    "*"
+                    {
+                        "/": "*api/login/mobile*"
+                    }
                 ]
             }
         ]
